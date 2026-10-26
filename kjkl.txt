@@ -1,0 +1,13 @@
+Weak Topics so far
+
+1) Pseudocode - WHILE statements etc, What is nested logic?
+2) Flowchart practice
+3) OOP & other languages comparison
+4) Validation & Verification Checks
+5) Event Driven Programming (Trigger functions etc)
+6) Linked List
+7) Record - Datatype
+8) Event Driven Programming
+9) Sorting - bubble, merge etc
+10) Code maintanability, readability
+11) Web 
